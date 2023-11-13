@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19522ad0-7dbe-4509-b478-e7d124042a67" name="Changes" comment="" />
+    <list default="true" id="19522ad0-7dbe-4509-b478-e7d124042a67" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/source/develop/cloud.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/develop/cloud_connect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/develop/cloud_demo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/develop/connect.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/develop/docker.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/develop/drivers.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/develop/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/query/deleting.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/query/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/query/inserting.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/query/reading.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/query/schema.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/source/query/updating.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +50,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/koops/Git/scylladb-getting-started/docs/source/query",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,7 +60,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -49,6 +68,12 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/source/query" />
+      <recent name="$PROJECT_DIR$/docs/source/development" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/scylladb-getting-started/_build/singlehtml/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -81,6 +106,10 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.rst" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/scylladb_getting_started$Docutils_Task_in_getting_started_rst.coverage" NAME="Docutils Task in getting-started.rst Coverage Results" MODIFIED="1698624631968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
